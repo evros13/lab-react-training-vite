@@ -80,3 +80,23 @@ h2 {
   justify-content: baseline;
 }
 
+.driverCard {
+  background-color: rgba(55, 67, 194, 0.888);
+  width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0 20px 30px;
+  border-radius: 12px;
+}
+
+.driverCard img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.driverCard2 {
+  color: white;
+  padding-left: 20px;
+}
